@@ -1,0 +1,256 @@
+{
+	"roster_items" : [
+            
+            { 
+                "name":"Olivia MacDonald",
+                "position":"Captain",
+                "year":"2019",
+                "major":"Molecular and Cell Biology",
+                "bio":"Olivia is from Morro Bay, where she learned how to sail Optis. She also grew up sailing a 45 foot cruiseboat down the Channel Islands during the summers. In addition to sailing, Olivia enjoys cats backpacking, camping, and yoga."
+            },
+
+            {   
+                "name":"Elizabeth Hansen",
+                "position":"President",
+                "year":"2019",
+                "major":"Business Administration",
+                "bio":"Elizabeth is from Scarsdale, New York, where she learned to sail Optis on the Long Island Sound. Elizabeth was part of the US Optimist National Team, and has competed in Optis, Lasers, and 420s around the world. In the summers, she coaches new sailors in the Long Island. In her spare time, Elizabeth enjoys singing, photography, and tutoring."
+            },
+            
+            {   
+                "name":"Cameron Juybari",
+                "position": "Treasurer",
+                "year":"2019",
+                "major":"Molecular and Cellular Biology",
+                "bio":"Cameron is from San Diego, and first learned to sail in Mission Bay. In his spare time, Cameron enjoys scuba diving, swimming, snowboarding, tennis, and soccer."
+            },
+
+            {   
+                "name":"Katey Hayes",
+                "position": "Secretary",
+                "year":"2020",
+                "major":"Political Science",
+                "bio":"Katey is from Charlotte in Vermont. She learned to sail optis on Lake Champlain and then went on the join her High School sailing team. When she is not sailing she enjoys hiking and snowboarding"
+            },
+
+            {   
+                "name":"Megan Grosspietsch",
+                "position": "Alumni Chair",
+                "year":"2020",
+                "major":"Society and Environment and Political Science",
+                "bio":"Megan is from Oconomowoc Wisconsin. She learned how to sail on 420's in high school and competed at Mallory Nationals in 2015. When she is not sailing she enjoys watching Blackhawks hockey and playing the piano."
+            },
+            
+            { 
+                "name":"Sarah Paulsen",
+                "position":"Recruitment Chair",
+                "year":"2020",
+                "major":"Undeclared",
+                "bio":"Sarah is from San Francisco. She learned to sail optis at St. Francis Yacht club and went on the sail for her high school sailing team and internationally. When she is not sailing she enjoys skiing, hiking and travel."
+            },
+            
+            {   
+                "name":"Cole Fargo",
+                "year":"2018",
+                "position":"Fleet Master",
+                "major":"Civil Engineering",
+                "bio":"Cole is from the Solana Beach area, and originally learned to sail Sabots in San Diego. Cole was a winner of the 2015 Transpac Yacht Race, Division 6. In addition to sailing, Cole enjoys, football, baseball, and offroading."
+            },
+
+            { 
+                "name":"Nicolai Sponholtz",
+                "year":"2019",
+                "position": "Fleet Master",
+                "major":"Undeclared",
+                "bio":"Nicolai is from Saucilito, and first learned to sail Optimists in Tuburon. Nicolai has been exposed to a variety of boats throughout his sailing career, and has taught sailing at the St. Francis Yacht Club. In addition to sailing, Nicolai enjoys music performance, cooking, kiteboarding, and freediving."
+            },
+
+            { 
+                "name":"Avery Burke",
+                "position": "Apperal Chair",
+                "year":"2020",
+                "major":"Economics",
+                "bio":"Avery is from Dallas, TX. He learned to sail at Boy Scouts' Sea Base in the Florida Keys. In addition to Sailing, Avery is a member of ATO and Berkeley Investment Group on campus."
+            },
+
+            { "name":"Kartikye Mittal",
+                "position": "Webmaster",
+                "year":"2020",
+                "major":"Electrical Engineering and Computer Science",
+                "bio":"Kartikye is from Singapore. He learned how to sail in 8th grade and then went on to sail Bytes nationally until the end of his junior year of high school."
+            },
+
+
+
+
+
+
+
+
+            { 
+                "name":"Alex Mutricy",
+                "year":"2018",
+                "major":"Applied Mathematics",
+                "bio":"Alex Mutricy is originally from France, where he learned to sail Hobbie 15s, and later moved to Dallas, Texas. He has taught sailing at the St. Francis Yacht Club. In addition to sailing, Alex enjoys skateboarding, skiing, kitesurfing, and surfing."
+            },
+
+            {   
+                "name":"Andrew Solomon",
+                "year":"2018",
+                "major":"Economics",
+                "bio":"Andrew is from Carlisle, Massachusetts, and first learned to sail Optis in Cape Cod. He teaches sailing at the Cotuit Mosquito Yacht Club during the summers. In addition to sailing, Andrew enjoys skiing."
+            },
+            
+            { 
+                "name":"Ekaterina Gonchorova",
+                "year":"2018",
+                "major":"Psychology, Molecular and Cell Biology",
+                "bio":"Ekaterina is originally from St. Petersberg, Russia and later moved to St. Petersberg, Florida, where she first learned to sail 420s. In the summer, she coaches the Navy Junior Reserve Officers Training Corps of Admiral Farragut Academy with their sailing team. In her spare time, Ekaterina enjoys ballet."
+            },
+               
+            
+            { 
+                "name":"Beth Connors",
+                "year":"2018",
+                "major":"Marine Science, Integrative Biology",
+                "bio":"Beth is from Montclair, New Jersey, and began sailing FJs when she joined the team. In her spare time, Beth enjoys scuba diving, reading, and travel."
+            },
+               
+            
+            
+
+
+
+
+
+
+
+
+
+            
+                
+           
+
+            { 
+                "name":"Gina Canzona",
+                "year":"2019",
+                "major":"Pre-Haas",
+                "bio":"Gina is from Los Angeles, and first learned to sail FJs with the team. In her spare time, Gina enjoys hiking, running, skiing, and travel."
+            },
+               
+            { 
+                "name":"Whitney Ziesing",
+                "year":"2019",
+                "major":"Economics",
+                "bio":"Whitney is from Tiburon, California. She learned how to sail during the summer on Nantucket Island. She started in Hunter 140's and Optis and worked her way up to skippering 420s."
+            },
+
+               
+            { 
+                "name":"Noah Stevenson",
+                "year":"2019",
+                "major":"Physics, Italian",
+                "bio":"Noah is from San Diego, where he first learned to sail Sabots. In his spare time, Noah enjoys hiking, surfing, freediving, wakeboarding, swimming, cinematography, and music."
+            },
+
+
+
+
+
+
+
+
+
+            
+
+            { 
+                "name":"Kylie Fawcett",
+                "year":"2020",
+                "major":"MCB",
+                "bio":"Kylie is from Fairfield Connecticut. She learned to sail on Laser Radials in middle school and then went on to join her high school sailing team. She is a member of the Zeta Tau Alpha sorority. "
+            },
+
+            
+
+            {    
+                "name":"Noah Martin",
+                "year":"2020",
+                "major":"Integrative Biology with a Marine Science Minor",
+                "bio":"Noah is from San Diego and first learned to sail with the team at Treasure island. Outside of sailing he enjoys scuba diving, surfing, playing water polo and biology."
+            },
+
+            { 
+                "name":"Zach Williams",
+                "year":"2020",
+                "major":"Undeclared",
+                "bio":"Zach is from Santa Cruz, California and began sailing FJs when he joined the team. In his spare time, he enjoys hiking, traveling, and going to the beach."
+            },
+
+
+
+
+
+            { 
+                "name":"Josie Ruggieri",
+                "year":"2021",
+                "major":"Business, Art History",
+                "bio":"Josie grew up in New York, New York and spent her summers in Newport, Rhode Island where she learned to sail in predominantly 420s out of Conanicut Yacht Club. She then went to the boarding school Choate Rosemary Hall where she sailed on the varsity sailing team her Junior and Senior year. In addition to sailing, Josie enjoys skiing and travelling."
+            },
+
+            { 
+                "name":"Kevin Gillard",
+                "year":"2021",
+                "major":"Economics, Applied Mathematics",
+                "bio":"Kevin is from Chapel Hill, North Carolina, and originally learned to sail optis and 420s in Plymouth, Massachusetts. He coaches sailing at Plymouth Yacht Club during the summer. In addition to sailing, Kevin enjoys playing basketball, surfing, hiking, and traveling."
+            },
+
+            {
+                "name":"Paris Sato",
+                "year":"2021",
+                "major":"Undeclared",
+                "bio":"Paris is from Honolulu, Hawaii where she learned how to sail a variety of boats including 420s and Lasers. She was on the Punahou School high school sailing team, and she competed in HYSA club sailing regattas in El Toros. She used to teach Junior Sailing at Hawaii Yacht Club and compete in weekly yacht races off of Waikiki Beach."
+            },
+
+            { 
+                "name":"Preston Weber",
+                "year":"2021",
+                "major":"Pre-Haas",
+                "bio":"Preston is from La Jolla, California. He learned how to sail JYs at a camp in Maine, and is now a Sailing Instructor there. In his spare time, Preston likes to go to the beach, travel, and play beach volleyball."
+            },
+           
+            { 
+                "name":"Sam Brees",
+                "year":"2021",
+                "major":"Integrative Biology",
+                "bio":"Sam grew up in lake Tahoe, learned to sail in el toros, then moved to fjs and big boats. Likes to shred the powder, slay midterms, and pole vault."
+            },
+
+            { 
+                "name":"Stuart Johnson",
+                "year":"2021",
+                "major":"Society and the Environment Environmental Economics and Policy ",
+                "bio":"Stuart Johnson was born in Seattle, Washington, but has spend time living in Scotland, Italy, and Minnesota. Stuart learned to sail in El Toros and has taught sailing all through high school. When not on the water he enjoys writing music, mountaineering, SCUBA, climbing, and long naps."
+            },
+        
+
+
+
+
+
+
+
+            { 
+                "name":"Coach Paul Heineken",
+                "year": "",
+                "major": "",
+                "bio":"Paul Heineken, MD, has been the volunteer coach of the Cal Sailing Team since the fall of 2009. He is a long-time competitive dinghy sailor, windsurfer, and supporter of youth sailing. Paul helps with Cal team practices and running Cal sponsored regattas. However, he respects that this is a student run club sport that requires team members to participate in budgeting, planning, boat maintenance, regatta operations, transportation, fund raising, and the myriad of administrative challenges that are part of maintaining a competitive team. Paul is a graduate of Princeton, having sailed with its college team that finished second in the 1967 Collegiate Nationals. He also received an MS from MIT, MD from Harvard, and trained in internal medicine at UCSF. Professionally, Paul is a Clinical Professor of Medicine at UCSF and the San Francisco VA Medical Center, where he continues to practice and teach internal medicine."
+            },
+
+            { 
+                "name":"Coach Nicole Breault",
+                "year":"",
+                "major": "",
+                "bio":"Nicole Breault has been helping the team out as a part-time volunteer coach over the past few semesters. She originally hails from eastern Connecticut where she taught high school history. Back in the late 1900s, she raced for Yale. Currently, Nicole races in the J105 fleet on the Bay and in match racing events around the country."
+            }
+        ]
+}

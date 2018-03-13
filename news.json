@@ -1,0 +1,256 @@
+{
+    "news_items": [{
+            "title": "Coed Pacific Coast Championships",
+            "location": "Santa Barbara Harbor,",
+            "college": "UC Santa Barbara",
+            "date": "November 12-14",
+            "writeup": ["The Bears traveled down to sunny Santa Barbara with 5 boats and 12 sailors to compete in the Coed Pacific Coast Championships. The conditions included light to moderate wind on both days with notable swells and chop. Sailing for Varsity was Andrew Solomon/Linda Ge for A and Nicolai Sponholtz/Megan Grosspietsch for B. For the women’s team, A was Elizabeth Hansen/Olivia MacDonald and B Sarah Paulsen/Kylie Fawcett. Finally, sailing for the JV team was David Hopkins/Ekaterina Goncharova in A and Tyler Hogan/ Melissa Jaffe in B. Unfortunately, the team vehicle broke down and spent Saturday in the shop, along with skipper Tyler, but Ekaterina stepped up and skippered B for JV on Saturday as well as crewing for A. David/Ekat wrapped up their final race with a bullet, the team’s top finish on the weekend. Finishing in 6th, 4th, and 6th respectively, we’re proud of how we completed in our final Fall regatta. Congratulations to all of our sailors for overcoming the challenges that the conditions and team vehicle gave us!"]
+        },
+        {
+            "title": "Women’s Pacific Coast Championship and Cardinal Open",
+            "location": "Stanford Boat House",
+            "college": "Leland Stanford Junior University",
+            "date": "October 29-30",
+            "writeup": ["During Halloween weekend, Cal sent students down to Stanford for the Women’s PCC’s and Cardinal Open. Saturday was brutal with very little wind and a lot of current. Sailing for Mama Bears was Kylie Fawcett/Ekat Goncharova and Megan Grosspietsch/Olivia MacDonald. For the open was Cole Fargo/Gina Canzona. Sunday surprised everyone with consistent winds of about 12 knots and a little bit of rain. It led to some intense racing! Sailing for Mama Bears on Sunday was Whitney Ziesing/Olivia MacDonald and Sarah Paulsen/Ekat Goncharova. For the open was Kartikye Mittal/Kylie Fawcett. The women’s team fought hard and placed 8th overall while the open got 14th. Most importantly however, this weekend many new freshman crew stepped up to skipper for their first regatta - we are proud of how well they did and they proved that there is a lot of potential on the team!"]
+        },
+        {
+            "title": "Men’s Singlehanded Pacific Coast Championships",
+            "location": "University of Southern California",
+            "college": "University of Southern California",
+            "date": "October 22-23",
+            "writeup": ["Despite initial hopes that the competition would come to TISC, this year’s PCC singlehanded championship was hosted by USC. Conditions wise, it was a very light event with flat water in between the Long beach break wall and the southernmost oil island inside Alamitos Bay. Junior Richard Didham, who attended Singlehanded nationals last year, represented Cal at this regatta, finished day one with a mixed scorecard: managing to put up a few solid scores in the middle of the day but then falling back in the end after an OCS and hitting a windward mark. Nonetheless, he ended the day in a strong fourth. Sunday saw passing rain and unstable winds, with the breeze constantly shifting around: southerly, straight east, 180-degree shift to the west, and finally the north west. Although unable to make up ground on the top boats, Richard still held strong for a 4th place finish on the weekend. Richard still had a fantastic experience and learned a lot throughout the event; he’s excited to apply his lessons to next year’s Singlehanded Championship and other future laser regattas!"]
+        },
+        {
+            "title": "Stoney Burke",
+            "location": "Treasure Island Sailing Center",
+            "college": "UC San Diego",
+            "date": "October 15-16, 2016",
+            "writeup": ["This year's Stoney Burke was characterized by a southerly breeze, which made the sailing interesting to say the least. Because the wind was coming straight off of Yerba Buena Island, the conditions were extremely shifty and puffy. The wind speed varied from around ten knots to thirty, and some races featured 180 degree wind shifts, with sailors having to sail two upwind legs in a row. These challenging conditions forced all sailors to rely on their seamanship (and a little bit of luck) in order to have a good result.", "Despite all of this, the team did an amazing job coming together at running (and sailing) a great event despite the challenging conditions. A big thank you to all of our volunteers, who braved the wind and the rain to make Stoney Burke possible!"]
+        },
+
+        {
+            "title": "UCSD Open",
+            "location": "Mission Bay Yacht Club",
+            "college": "UC San Diego",
+            "date": "October 8-9, 2016",
+            "writeup": ["In addition to Cal’s stellar performances at the Freshman-Sophomore regatta, we also sent one boat with six sailors to the simultaneous UCSD Open, which saw squads from 10 schools compete in an early semester competition. Primarily a means of letting upperclassmen travel and compete at the Mission Bay venue along with their Freshmen and Sophomore teammates, Cal held a wire-to-wire lead in the Open for the whole weekend, beating second-place USC by 12 points. The A team (Andrew Solomon/Linda Ge) won their first five races, as well as their last. B side rotated between Ian Markowitz/ Alex Mutricy and Cole Fargo/Tyler Hogan every other rotation, the latter two taking first on their first race and the entire team never finishing worse than 4th. Throughout a light-to-moderately windy but sunny weekend, the Bears consistently competed strongly and are proud to have taken home gold in the first competitive FJ regatta of the season!"]
+        },
+        {
+            "title": "Freshman/Sophomore Regatta",
+            "location": "Mission Bay Yacht Club",
+            "college": "UC San Diego",
+            "date": "October 8-9, 2016",
+            "writeup": ["Cal took home seven bullets at this year's Freshman-Sophomore Regatta at Mission Bay Yacht Club this past weekend. The breeze in the bay built to an unprecedented 14 knot westerly by noon on Saturday. Bears dominated the waters with four of the twenty one boats in the Frosh/Soph division. Bears 1 Nicolai Sponholtz/Sarah Paulsen and Elizabeth Hansen/Gina Canzona finished 2nd, just 4 points behind USC. Vince Todosiev/Megan Grosspietsch and Katey Hayes/Melissa Jaffe finished 4th, David Hopkins/Olivia MacDonald and Whitney Ziesing/Kylie Fawcett finished 6th, and Michael Gabassi/Manish Singh and Kartikye Mittal/Avery Burke and Matthieu Laurent/Cameron Juybari finished 12th."]
+        },
+        {
+            "title": "Match Racing Conference Championships",
+            "location": "San Diego Yacht Club",
+            "date": "October 1-2, 2016",
+            "writeup": ["The Bears sent down a team of 4 to the Match Racing Conference Champs, of which the winner qualified for Match Racing Nationals. Competing for Berkeley was Cole Fargo (skipper), Andrew Solomon (main/spinnaker), Olivia MacDonald (jib/pit), and Alex Mutricy (bow). There were 3 round robins with 5 flights in each, sailed in J/22s. Since it was a national qualifier, every team was very competitive. Although not winning any matches, the Bears put up a strong fight. In the last match against Stanford, the race came down to the last couple boatlengths, where Cal, who was ahead, had to do a penalty turn and Stanford snuck over the line before they could finish. However, it sent a strong message out to Stanford to be prepared for Big Sail come November."]
+        },
+        {
+            "title": "South Designate",
+            "location": "US Sailing Center, Long Beach",
+            "college": "University of Southern California",
+            "date": "April 9-10, 2016",
+            "writeup": ["This past weekend we competed at South Designates at the US Sailing Center in Long Beach. The regatta was hosted by USC. The wind conditions were light and shifty both days and it was important for our sailors to sail the lifted tack and protect the right side since the wind shifted right throughout the day. It was easy to gain and lose boats throughout the race because of the conditions, sailing on the wrong tack for too long or choosing the wrong side downwind could cost you a lot of boats. Overall, it was a great regatta and we finished with Kyra/Gina and Elizabeth/Olivia in 6th, Andrew/Noah and Vince/Alex in 9th, and Cole/Dan and Ian/Justin in 15th. "]
+        },
+        {
+            "title": "North Gold/Silver",
+            "location": "Stanford Sailing Center",
+            "college": "Stanford University",
+            "date": "March 19-20, 2016",
+            "writeup": ["The Bears sent 3 boats down to Stanford Sailing Center for North Gold/Silver. Since the regatta was over many schools' spring breaks, it was reduced to one fleet of 18 boats. Bears 1 consisted of Kyra Oakes/Katie Hitchcock, Bears 2 was Tyler Hogan/Olivia MacDonald, and Bears 3 was Rohan Sinha/Justin Lai. Saturday was sailed in z420s and Sunday in FJs, and boats sailed a set of 3 races before rotating into a new boat. 17 races were sailed. Both days there were light winds which eventually built in the afternoon, but it was more shifty on Sunday. Bears 1 finished with a 6th place overall, only behind Stanford and UCSD. "]
+        },
+        {
+            "title": "Harbor Cup",
+            "location": "Los Angeles",
+            "college": "Cal Maritime",
+            "date": "March 11-13, 2016",
+            "writeup": ["The Berkeley Bears competed against some of the country's top college yacht racing teams in the country at the Port of Los Angeles Harbor cup over the weekend of March 11. The teams competed on boats chartered boats from the Los Angeles Yacht Club's fleet of Catalina 37's. Friday began with a few hours of practicing maneuvers before an afternoon first start. Winds in the inside the harbor were blowing from the South at roughly 12 kts at the beginning of the first race, pushing a dark and foreboding cloudbank towards shore. The competition intensified as University of Hawaii and the Coast Guard Academy pulled ahead of Cal in the overall rankings. The Cal boat was called over early in the third race of the day, but due to an unfortunately broken VHF, committed almost a full minute to the upwind beat before returning to the start line. The teams of college sailors had dinner at the Los Angeles Yacht Club and enjoyed a presentation by Tom Ehman and Andy Rose about the exciting prospects for Super 12 Yacht Racing Challenge. The swell calmed enough for a relocation of Sunday's races to the ocean outside Los Angeles Harbor. Unfortunately, the winds were not so cooperative. The race committee was forced to postpone racing until noon due to a lack of wind. The first race went off with just a few kts of wind to lead the boats off the starting line. The Bears successfully defended their eighth place standing against Cal State Long Beach and South Florida. The day's racing ended in the afternoon, followed by an awards ceremony. College of Charleston's 1st place win upset Cal Maritime's six year hold over the Harbor Cup."]
+        },
+        {
+            "title": "Mustang Open",
+            "location": "Morro Bay Yacht Club",
+            "college": "Cal Poly",
+            "date": "March 5-6, 2016",
+            "writeup": ["Cal Sailing sent twelve sailors to the Mustang Open, hosted by Cal Poly. Bears 1 consisted of Ian Markowitz & Justin Lai and Nicolai Sponholtz and Olivia Macdonald; Bears 2 consisted of Vidar Aspelin & Beth Connors and Kier Pope & Dan Ferenc Segedin. Weather was not ideal, with light winds and rain on both days. A total of eleven races were completed, and the team placed very well: Bears 3 finished thirteenth, Bears 2 finished fifth and Bears 1 finished first."]
+        },
+        {
+            "title": "Cal Team Race",
+            "location": "Treasure Island Sailing Center",
+            "college": "UC Berkeley",
+            "date": "February 27-28, 2016",
+            "writeup": ["Cal Sailing hosted four schools at the Cal Team Race. Bears 1 consisted of Eric Witte and Justin Lai, Nicolai Sponholtz and Linda Ge, Henry Keegan and Jacob Basinger, and Elizabeth Hansen and Olivia MacDonald. Bears 2 consisted of Kier Pope and Delaney Evans, Tyler Hogan and Noah Stevenson, Rohan Sinha and Jacey Van Wert, Vidar Aspelin and Cameron Juybari, and Vincent Todosiev and Dan Segedin.", "The winds started out light on both days of the event, and races were postponed. A total of 40 races were completed. Aside from losing the very first race of the day to Monterey Bay, Bears 1 did remarkably well, finishing in 1st place with 15 wins and 1 loss at the end of Sunday. Bears 2 made a valiant effort as well, finishing 4th place overall."]
+        },
+        {
+            "title": "Anteater Open",
+            "location": "Newport Harbor Yacht Club",
+            "college": "UC Irvine",
+            "date": "February 20-21, 2016",
+            "writeup": ["Cal Sailing sent eight sailors to the Anteater Open regatta. Andrew Solomon and Linda Ge competed in the A Division for the Bears 1 boat while Vidar Aspelin and Sage Geher competed in the division as Bears 2. In Division B, Tyler Hogan and Noah Stevenson sailed as Bears 1, and Keir Pope and Dan Ferenc as Bears 2. The morning started with light winds that eventually picked up to 8-10 knots. A total of ten FJ races were completed, with Bears 1 finishing in sixth and Bears 2 in twenty first."]
+        },
+        {
+            "title": "Bryson Women's",
+            "location": "Stanford Sailing Center",
+            "college": "Stanford University",
+            "date": "April 11-12, 2015",
+            "writeup": ["Cal Sailing sent skippers Jenny Hayes and Kyra Oakes and crews Katie Hitchcock and Ekaterina Gonchorova to the Bryson Women's regatta. Conditions were excellent for the event, with warm weather and 12-18 knots of breeze. A total of 11 races were sailed alternating between FJ's and z420's. The team took third place out of nine boats, behind only USC and Stanford."]
+        },
+        {
+            "title": "South Designate",
+            "location": "Long Beach",
+            "college": "USC",
+            "date": "March 28-29, 2015",
+            "writeup": ["Cal sent ten sailors and two boats to the South Designate regatta. Seventeen schools, with a total of 25 boats, competed in slight chop off of the Belmont Pier with around 10 knots of wind on both Saturday and Sunday. Saul Rosen and Lauren Rehbein competed in the A Division for the Bears 1 boat while Henry Keenen and Hani Azam competed in the division as Bears 2. In Division B, Kyra Oakes and Beth Connors sailed the entire regatta as Bears 1, whereas Cole Fargo and Katie Hitchcock alternated with Daniel Anderson and Tyler Hogan as Bears 2.", "Racing began at 11:30 on Saturday, with most races consisting of two laps around a windward-leward course. While the day started of with lighter winds, the breeze built throughout the course of the afternoon and provided a competitive and challenging environment. While better pressure on the left side of the race course appeared to favor reaching after rounding the windward mark, many teams lost boats on the downwind, as the better pressure did not compensate for the extra distance of the higher course.", "Races on Sunday started half an hour earlier, due to time limitations of an out of state team needing to make their flight. As a result of this limitation, many of the races consisted of only one lap around the course. This altered the ability to gain multiple boats on the downwind or upwind; both Cal boats had varying success gaining on either leg of the races."]
+        },
+        {
+            "title": "Sea Otter Open",
+            "location": "Monterey Bay",
+            "college": "CSUMB",
+            "date": "March 14-15, 2015",
+            "writeup": ["This year's Sea Otter Invite turned out to be a quiet affair, as most other conference schools on the quarter system opted not to attend, studying for finals instead. Nonetheless, Cal sent 4 sailors and one boat to the competition, which also saw two Santa Cruz boats and three CSU Monterey Bay boats. With only 6 boats on the starting line, the regatta's size was essentially on the same scale as a practice, but simply far more aggressive. Cal's two rotations (Tyler Hogan/Charlotte Jamar and Greg Martin/Hani Azam) remained competitive with the rest of the fleet, fighting for a top finish of 2nd place on the weekend. Despite sunny skies and 80 degree weather, the conditions were challenging: very light winds, puffs, and shifts even to the point where, during one race, a strong wind shift necessitated tacking around the leeward mark! Cal was also treated to a beachside cookout on Saturday night by the hosting CSU Monterey Bay team. All in all, a fun and successful weekend for the Cal Bears!  "]
+        },
+        {
+            "title": "Beach Gold/Black",
+            "location": "Long Beach",
+            "college": "CSULB",
+            "date": "March 8-9, 2015",
+            "links": [{
+                    "link": "http://scores.collegesailing.org/s15/beach-gold-invite/",
+                    "linktext": "Gold Fleet Results"
+                },
+                {
+                    "link": "http://scores.collegesailing.org/s15/long-beach-black-invite/",
+                    "linktext": "Black Fleet Results"
+                }
+            ],
+            "writeup": ["On March 8th and 9th, the Bears sailed in the Long Beach Gold/Black Regatta, with one boat in the Gold Fleet and three in Black Fleet. On Saturday, wind was light and shifty, but this did not hold up racing. Gold Fleet completed nine races, and Black fleet sailed six. With daylight savings in effect, groggy sailors appeared for the second day of races and both fleets sailed six more races in more light, shifty wind. Wind built in the afternoon.",
+                "With more crowded starting lines, the bears worked to get good starts and maintain clear air.  In addition, the bears worked on playing shifts and light wind boat speed.  This was a fun regatta that targeted the improvement of the Pacific Conference.",
+                "Overall, Bears Gold finished with an overall 14th out of 17, sailing better in Sunday afternoon's heavier wind.  In the Black fleet, Bears finished with in 4th, 6th and 9th out of 18.",
+                "This was a great opportunity to practice for South Designate which will be sailed in Alamitos Bay as well!"
+            ]
+        },
+        {
+            "title": "Cal Team Race",
+            "location": "Treasure Island",
+            "college": "UC Berkeley",
+            "date": "February 28 to March 1, 2015",
+            "links": [],
+            "writeup": ["On the weekend of Saturday February 28th to March 1st Cal hosted a team race involving teams from UC Irvine, UC Davis, Cal Poly and Cal State Monterey.  On the first day of the regatta the start was delayed due to conflicting westerly and northerly winds.  Six teams - two from Cal - competed in twelve FJs with either red, yellow, blue or green jibs to differentiate the teams, with rotations after every race.  By the end of the first day, the Cal teams had attained little success, with Cal Poly, UC Davis and Cal State Monterey leading the standings through one and a half round robins.",
+                "On the second day of the event, Sunday March 1st, the Cal Team race was once again delayed due to similar conditions to those of the first day.  The teams were finally able to begin competing by noon, and the course was set to a very shifty 5 knot westerly.  The second round robin was finished a few hours later with Cal Poly leading the way at 9-1, followed by UC Davis (7-3), Cal State Monterey (6-4), Bears 1 (4-6), Bears 2 (4-6) and UC Irvine (0-10).  Therefore a playoff race between the two Cal teams was needed to determine the final team in the pending playoff, which would consist of four teams.",
+                "The two Cal teams went head to head in a very intense playoff, with the Bears 2 scraping out a 2-3-4 win.  The Bears then went on to beat Cal Poly in the first round of the playoffs with a very close 1-2 combination and a successful protest defense against a very competitive Cal Poly skipper.  In the final round, with a well built 12 knot westerly, the Bears 2 were up for an exciting final against UC Davis.  After some very good sailing and a capsize, the bears were able to take the upper hand and win the event.  The Bears 2 team consisted of Cole Fargo '18 and Katie Hitchcock '16, Henry Keenan '18 and Justin Lai '16, and Matt Thomas '17 and Hani Azam '17."
+            ],
+            "image": "TeamRace2015.jpg"
+        },
+        {
+            "title": "Anteater Open",
+            "location": "Newport",
+            "college": "UCI",
+            "date": "February 14-15, 2015",
+            "links": [{
+                "link": "http://scores.collegesailing.org/s15/anteater-open/",
+                "linktext": "Regatta Results"
+            }],
+            "writeup": ["On February 14th and 15th The Cal Sailing Team sent two boats down to Newport Beach, CA to compete in the UCI Anteater Regatta. On Saturday, racing was delayed for wind until 1 p.m. and ended with a total of four races sailed by A division and two sailed by B division. At the end of Saturday, Cal boats were ranked 13th and 14th out of 19 boats competing. Sunday began at 11 a.m. with stronger winds moving through the course for the remainder of the day. Both fleets completed four races, putting Golden Bear 1 in 13th overall and Golden Bear 2 in 11th. Golden Bear 2 A division went to the protest room over a conflict rounding the leeward mark. Due to unclear communication with the committee Berkeley lost the protest and received one DSQ. On Sunday, a part broke off Golden Bears 2 before the second race forcing them to pull out to make the repair and take a DNS. Keys to good sailing were getting good starts, keeping good pressure in the sails by finding clean air, and smart weight distribution in the boat. A lot of collisions between boats and tight mark roundings made knowledge and confidence in rules important. Congratulations to the Cal Sailors who came out and raced against some tough West Coast competition. Go Bears!"],
+            "image": "Anteater2015.jpg"
+        },
+        {
+            "title": "Central Coast Challenge",
+            "location": "Santa Barbara",
+            "college": "UCSB",
+            "date": "November 1-2, 2014",
+            "links": [{
+                "link": "http://scores.collegesailing.org/f14/central-coast-challenge/",
+                "linktext": "Regatta Results"
+            }],
+            "writeup": ["Three Cal teams attended the 2nd annual Central Coast Challenge in Santa Barbara on the weekend of November 1st and 2nd. A late start delayed the event, however the whistles of the first races began at 11:30. The water was clear and flat at the beginning of the day with a swell building, creating chop later in the day. The race course was initially set up off of the breakwater with rotations occurring off of the sandbank at the mouth of the harbor.", "The first rotations sailed two races in 13 knots and then the race committee, headed by Westmont College and supported by UCSB sailors, moved the race course below the pier after the first race of B Rotation, in which Cal took first place! The wind then died for approximately 20 minutes in which it also began to lightly rain. After several failed starts due to the shifting wind, a new race course was set with the wind blowing off shore, a ninety degree shift to the right from the normal direction! The day ended with B rotation sailing four consecutive races. Most of the day's races were \"course 4,\" a course with four legs and a downwind finish.", "On the second day of the regatta, racing began around noon due to light winds earlier in the morning, but was overall a successful day of sailing in 10 to 12 knots of wind with puffs up to 15. The line was fairly square, however the gate for the leeward mark rounding was skewed and huge gains could be made by rounding the gate to port. Banging a corner could also pay off, but was a risky move this weekend due to the chop and swell. Creating too much leverage was detrimental to gaining on the lead competitor within the top five boats due to the shifts later on in the day. Due to the uneven number of races completed by B rotation on Saturday, A rotation first sailed three races with B Rotation following with two races and then A ended the regatta with one race.", "Overall, Cal placed 3rd, 8th and 9th with 12 sailors attending the event in total. This was a good practice regatta and a time to prepare for Fall PCCs, which will also be held in Santa Barbara, in a competitive environment."],
+            "image": "CentralCoast2014.jpg"
+        },
+        {
+            "title": "Stoney Burke",
+            "location": "TISC",
+            "college": "UC Berkeley",
+            "date": "October 18-19, 2014",
+            "links": [{
+                "link": "http://collegesailing.org/f14/stoney-burke/",
+                "linktext": "Stoney Burke Results"
+            }],
+            "writeup": ["Clear skies and warm weather brought challenging conditions for the 26th Annual Stoney Burke Intersectional. After the competitor's meeting, sailors stayed ashore until a light breeze filled around 1115. The race committee completed one race in A and was forced to abandon race 2A when the breeze shut off and backed mid-race. After a short on-shore postponement, the race committee restarted racing, eventually completing through race 4B in a steady 7-8 knot westerly (gusting 12-15 knots in races 1B and 2B).  On Sunday, races were postponed onshore for 3 hours starting at 0930 as we had 0 knots due to a thick overhead fog bank. The fog bank receded at 1230 followed by blue skies and a steady 10-15 knot westerly. A and B divisions were able to sail (2) W/L2 races each before reaching the 1500 Sunday time limit. 26th Stoney Burke had a 46 boat turnout (28 coed/womens varsity and 18 JV from 18 universities).  Light air sailing was a challenge on Saturday that lead to midfleet finishes; however, a steady 10 knots on Sunday allowed our varsity team to score finishes in the top 10% of the fleet.  Thanks to our Cal sailing coaches, alumni, and undergraduates for hosting a successful and well-executed event."],
+            "image": "StoneyBurke2014.jpg"
+        },
+        {
+            "title": "Frosh-Soph Regatta",
+            "location": "San Diego",
+            "college": "UCSD",
+            "date": "October 11-12, 2014",
+            "links": [{
+                "link": "http://scores.collegesailing.org/f14/elsa-felgar/",
+                "linktext": "Frosh-Soph Results"
+            }],
+            "writeup": ["Cal sent seventeen sailors along the 9-hour car ride to sunny San Diego this second weekend of October for the annual Freshman-Sophomore regatta in Mission Bay. As per usual, winds were light and conditions highly tame, but the regatta nonetheless provided a superb first weekend of racing for the competitive season. Wind conditions on the first day were shifty, yet seven races got off the line before the day's end. With the UCSD Open (a first-year varsity event) occurring simultaneously, frosh/soph races often got delayed. Wind conditions were more constant on Sunday, after the marine layer burned off around 11, and eight races total transpired in the light winds.", "In contrast to the Bay's heavy winds in September and October, the near absence of wind in Mission Bay furnished a unique and challenging situation for the team, one which it nonetheless emerged from successful. All 4 Cal boats, combined, totaled seven top 5 finishes (including one bullet!), and ultimately placed 8th, 9th, 10th, and 11th in a field of 24 - beaten all but four schools at the event.", "Overall, the race was a terrific opener for the Fall season and fantastic first regatta for team freshmen to try their hands in racing situations - well worth the Yukon's 4AM arrival time back in Berkeley!"],
+            "image": "FroshSoph2014.jpg"
+        },
+        {
+            "title": "PCCSC Match Racing Championship",
+            "location": "San Diego",
+            "college": "SDYC",
+            "date": "October 4-5, 2014",
+            "writeup": ["Four Cal sailors traveled to sunny San Diego for collegiate match racing. Outside of our normal collegiate FJ racing, we compiled a J22 team of Stephen Bordes as skipper, Ian Markowitz on main, Alex Mutricy on bow, and myself as jib trimmer. Hosted by the San Diego Yacht Club, the PCCSC Match Racing Championship included seven teams of 3 or 4 crews each. We practiced at California Maritime Academy and worked on spin sets, mark roundings, and overall crew work. The San Francisco heavy breeze did not compare to the light wind we experienced in San Diego. On Saturday, we were delayed on land until 2 in the afternoon. We sailed in 1-4 knots of wind, which was uncommon to our team. Wind shifts and sudden wind shutoffs proved to difficult to sail. At the end of the weekend, we managed to sail one full round robin. Our crew work improved throughout the weekend with major adjustments to light wind sailing. We took risks at pre-starts and won many starts, however could not keep our lead on the course. One particular accomplishment was winning a jibbing duel on a downwind leg against USC. The final two came down to Stanford and UC Santa Barbara. J22 match racing is a great opportunity for our team. Although we did not place well, the team is not discouraged, but instead motivated to learn more match racing strategies!"]
+        },
+        {
+            "title": "PCCSC Co-Ed Conference Championship",
+            "location": "Honolulu",
+            "college": "UH",
+            "date": "April 26-17, 2014",
+            "links": [{
+                "link": "http://scores.collegesailing.org/s14/pccsc-coed/",
+                "linktext": "PCCSC Championship Results"
+            }]
+        },
+        {
+            "title": "South 5 Designate",
+            "location": "Long Beach",
+            "college": "USC",
+            "date": "April 12-13, 2014",
+            "links": [{
+                "link": "http://scores.collegesailing.org/s14/pccsc-south-5-designate/",
+                "linktext": "South 5 Designate Results"
+            }],
+            "writeup": ["Twenty-eight teams competed at the South Designate regatta in Long Beach, with three teams representing UC Berkeley. Wind conditions were perfect all weekend, with around twelve knots of breeze on Saturday and bit under ten knots on Sunday. The weather was beautiful and sunny all weekend, although a number of unprepared team members came back to Berkeley with bad sunburns. The Congressional Cup took place right next to the collegiate course, allowing us to watch world-class match racing during off-the-water rotations.", "We sailed six races on Saturday, a long day which allowed us to get leave for home earlier on Sunday. With stiff competition the Cal varsity boat finished in a respectable fourteenth, the varsity B division finishing strong with two top ten finishes. The weekend was a lot of fun, and served as a great ending to the regatta season for those of us not making the trip to Hawaii."]
+        },
+        {
+            "title": "PCCSC Women's Championship",
+            "location": "Santa Barbara",
+            "college": "UCSB",
+            "date": "April 5-6, 2014",
+            "links": [{
+                "link": "http://scores.collegesailing.org/s14/pccsc-women/",
+                "linktext": "PCCSC Women's Championship Results"
+            }],
+            "writeup": ["For this year's Women's PCCSC Championship, we sent four girls down to Santa Barbara. The first day of sailing was frustrating with light winds that were constantly fluctuating in what seemed to be random directions. We did not even start a race until the late afternoon when the breeze finally steadied! Eventually, the wind picked up to a point where it was too much to handle, so we ended the day a little earlier than planned. Despite the challenging wind conditions we still performed well, finishing the day in third place after Stanford University and the University of Hawaii. On the second day we experienced much steadier wind conditions with consistent pressure throughout the day and a less varying wind direction. As a team, we dropped a few places but still managed to finish the regatta in a solid fifth place! It was an exciting weekend and we are extremely proud of our performance!"],
+            "image": "womenschamp.jpg"
+        },
+        {
+            "title": "St. Francis Co-Ed Interconference Regatta",
+            "location": "San Fransisco",
+            "college": "St. Francis Yacht Club",
+            "date": "March 29-30, 2014",
+            "links": [{
+                "link": "http://scores.collegesailing.org/s14/st-francis-interconference/",
+                "linktext": "St. Francis Co-Ed Interconference Results"
+            }],
+            "writeup": ["Our varsity team made the quick trip across the Bay for the St. Francis Coed Interconference regatta. The competition was stiff with 29 teams traveling from as far as British Columbia, Florida and Texas, while sailing was difficult with the constantly changing conditions throughout the weekend. An unforgiving downpour on Saturday made way for sunny, breezy conditions on Sunday that were more characteristic of the San Francisco city front. Wind picked up to 15+ knots with an ebb of 4.6 and a flood of 4.2. The top teams were those that sailed conservatively and consistently. Our team sailed hard, finishing in a solid 9th position, and will continue to working hard leading up to our trip to Hawaii for the PCCSC Coed Championships!"],
+            "image": "st_francis.jpg"
+        },
+        {
+            "title": "Team Racing Clinic",
+            "location": "San Diego",
+            "college": "SDYC",
+            "date": "March 22-23, 2014",
+            "writeup": ["Golden Bears Saul Rosen, Janice Wondolleck, Stephen Bordes, and William Brown participated in a Team Racing Clinic at San Diego Yacht Club, led by Dave Perry, the first weekend of Spring Break!"],
+            "image": "teamRacing.jpg"
+        }
+    ]
+
+}

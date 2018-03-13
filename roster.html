@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Cal Sailing Team</title>
+		<link rel="stylesheet" type="text/css" href="styles/css/styles.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+	
+	<body id="roster">
+		<section id="first">
+			<div id="navigation">
+				<img src="img/burgee.png">
+				<span>Cal Sailing Team</span>
+				<a href="/">Home</a>
+				<a href="roster.html">Roster</a>
+				<a href="news.html">News</a>
+				<a href="calendar.html">Calendar</a>
+				<a href="https://give.berkeley.edu/egiving/index.cfm?Fund=FU0818000&Org=The%2520Sailing%2520Club%2520Fund" id="donate">Donate</a>
+			</div>
+
+			<div id="navigation-mobile">
+				<div class="title">
+					<img src="img/burgee.png">
+					<span>Cal Sailing Team</span>
+				</div>
+				<br>
+				<div class="links">
+					<a href="/">Home</a>
+					<a href="roster.html">Roster</a>
+					<a href="news.html">News</a>
+					<a href="calendar.html">Calendar</a>
+					<a href="https://give.berkeley.edu/egiving/index.cfm?Fund=FU0818000&Org=The%2520Sailing%2520Club%2520Fund" id="donate">Donate</a>
+				</div>
+			</div>
+		</section>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h2>Roster</h2>
+				</div>
+			</div>
+		</div>
+
+		<section id="second" class="container"> 
+			
+		</section>
+
+		<section id="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-12">
+						<p> 
+							Hosted by the OCF. Web design by <a href="kartikye.com">Kartikye Mittal</a>. To contact the team email <a href="mailto:calsailing@gmail.com">calsailing@gmail.com</a>
+						</p>
+
+						<p>
+							We are a student group acting independently of the University of California. We take full responsibility for our organization and this web site.
+						</p>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<script type="text/javascript">
+			var request2 = new XMLHttpRequest();
+			request2.open('GET', 'roster.json', true);
+
+			request2.onload = function() {
+			  if (request2.status >= 200 && request2.status < 400) {
+			    // Success!
+			    var data = JSON.parse(request2.responseText);
+			    var roster = data.roster_items;
+			    var full = ''
+			    for (var i = 0 ; i < roster.length; i++){
+			    	var position = ""
+			    	if (roster[i].hasOwnProperty('position')) {
+			    		position = "<b>"+roster[i].position+"</b><br>"
+			    	}
+			    	var roster_text =  "<h3>"+roster[i].name+"</h3>"+position+"<i>"+roster[i].year+", "+roster[i].major+"</i> <p>" + roster[i].bio +"</p>"
+			    	var roster_img = "img/roster/"+roster[i].name+'.jpg';
+			    	var roster_item = "<div class='row'> <div class='col-3'> <img src='"+roster_img+"'></div><div class='col-9'>"+roster_text+"</div></div>";
+			    	full += roster_item
+			    }
+
+			    document.getElementById('second').innerHTML = full
+				 
+			  } else {
+			    // We reached our target server, but it returned an error
+
+			  }
+			};
+
+			request2.onerror = function() {
+			  // There was a connection error of some sort
+			};
+
+			request2.send();
+
+		</script>
+	</body>
+</html>
